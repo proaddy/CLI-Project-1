@@ -5,11 +5,11 @@ Simple Notes CLI tool which stores notes along with current datetime.
 ```
 Usage: main.py [OPTIONS] COMMAND [ARGS]...
 
-  ***********************************************************************
+    ********************************************************
+    
+    -   Notes CLI Tool: Add, retrieve, and manage notes.   -
 
-  -   This is a CLI tool to add and retrieve the small bits of notes.   -
-
-  ***********************************************************************
+    ********************************************************
 
 Options:
   --help  Show this message and exit.
