@@ -2,7 +2,7 @@ import csv
 import click
 from datetime import datetime
 
-def read_notes(file_path="storage/storage.csv"):
+def read_notes(file_path="storage/storage.csv") -> None:
     """Read all notes from the storage file."""
     try:
         with open(file_path, "r") as file:
